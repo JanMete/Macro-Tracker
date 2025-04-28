@@ -81,6 +81,14 @@ const foods: Food[] = [
     carbs: 7.3,
     fat: 25,
   },
+  {
+    id: 18,
+    name: 'asdasdasd',
+    calories: 273,
+    protein: 3.4,
+    carbs: 7.3,
+    fat: 25,
+  },
 ];
 
 export default foods;
